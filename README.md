@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My second Assignment</title>
-		<link href="css/app.css" type="text/css" rel="stylesheet"/>
+	<title>My Assignment</title>
+	
 </head>
 <body>
 <div id="wrapper">
